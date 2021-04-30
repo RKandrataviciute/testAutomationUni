@@ -10,7 +10,7 @@ public class TestResults {
 
     public static void main(String args[]){
 
-        //Get the test score
+        //Input for the test score
         System.out.println("Enter your test score:");
         Scanner scanner = new Scanner(System.in);
         double score = scanner.nextDouble();
